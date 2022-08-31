@@ -1,0 +1,4 @@
+whatever,link,name,,
+wolverine,https://www.hwupgrade.it/immagini/wolverine-x-google-05-03-2021.jpg,wolverine.jpg,,"CONCATENATE(A2, RIGHT(B2,4))"
+hulk,"https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/o8gazmdbajxps889sklm.jpg",hulk.jpg,,
+deadpool,https://i.annihil.us/u/prod/marvel/i/mg/f/03/62432e8e49266/clean.jpg,deadpool.jpg,,
